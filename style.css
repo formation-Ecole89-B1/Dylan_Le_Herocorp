@@ -1,0 +1,19 @@
+body {
+    background-color:#2f3848 ;
+}
+
+#container {
+    width: 70%;
+    margin: auto;
+}
+.titre {
+display: flex;
+color: white;
+position: relative;
+width: ;
+margin: auto;
+background-color: #f05768;
+}
+h4 {
+    color:yellowgreen;
+}
